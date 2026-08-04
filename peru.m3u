@@ -210,6 +210,8 @@ http://187.102.210.46/KARIBENA/index.m3u8
 https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
 http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
+#EXTINF:-1 tvg-id="Dsports.pe@SD",Dsports (1080p)
+http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe@SD",La Fabulosa Radio y TV (720p)
 https://eu1.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe@SD",La Tele (1080p)
