@@ -206,6 +206,14 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena (720p)
 http://190.108.83.69:8000/play/a0cd/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaPeru.pe@SD",Mi Musica Peru (720p)
+http://190.238.43.117:9000/play/a0hg/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaReggaeton.pe@SD",Mi Musica Reggaeton (720p)
+http://190.238.43.117:9000/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaSalsa.pe@SD",Mi Musica Salsa (720p)
+http://190.238.43.117:9000/play/a0hi/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaRomantica.pe@SD",Mi Musica Romantica (720p)
+http://190.238.43.117:9000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-id="KoraTV.pe@SD",Kora TV
 https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 #EXTINF:-1 tvg-id="L1.pe@SD",L1 (1080p)
