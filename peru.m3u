@@ -213,7 +213,7 @@ http://190.108.83.69:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
 http://190.108.83.69:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="Dsports.pe@SD",Dsports (1080p)
-http://201.240.104.137:8000/play/dts/index.m3u8?hls
+http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 tvg-id="Dsports2.pe@SD",Dsports 2 (1080p)
 http://201.240.104.137:8000/play/a0bv/index.m3u8?hls
 #EXTINF:-1 tvg-id="Dsports+.pe@SD",Dsports + (1080p)
@@ -268,7 +268,7 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (576p)
 http://201.240.104.137:8000/play/a07a/index.m3u8?hls
-#EXTINF:-1 tvg-id="Plus TV Life.pe@SD",Plus TV Life (576p)
+#EXTINF:-1 tvg-id="PlusTVLife.pe@SD",Plus TV Life (576p)
 http://190.108.83.69:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="NacionalTvPeru.pe@SD",Nacional Tv Peru (720p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8
