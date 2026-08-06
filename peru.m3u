@@ -266,7 +266,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
+#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (576p)
 http://201.240.104.137:8000/play/a07a/index.m3u8?hls
 #EXTINF:-1 tvg-id="MovistarPlus.pe@SD",Movistar Plus (576p)
 http://190.108.83.69:8000/play/a086/index.m3u8
