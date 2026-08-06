@@ -211,9 +211,9 @@ https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 #EXTINF:-1 tvg-id="L1.pe@SD",L1 (1080p)
 http://190.108.83.69:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
-http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
+http://190.108.83.69:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="Dsports.pe@SD",Dsports (1080p)
-http://201.240.104.137:8000/play/dts/index.m3u8?hls
+http://201.240.104.137:8000/play/dts/index.m3u8
 #EXTINF:-1 tvg-id="Dsports2.pe@SD",Dsports 2 (1080p)
 http://201.240.104.137:8000/play/a0bv/index.m3u8?hls
 #EXTINF:-1 tvg-id="Dsports+.pe@SD",Dsports + (1080p)
